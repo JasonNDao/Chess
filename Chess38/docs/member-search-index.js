@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"components","c":"Piece","l":"color"},{"p":"components","c":"Piece","l":"move(Piece[][], int[])","u":"move(components.Piece[][],int[])"},{"p":"components","c":"Piece","l":"moved"},{"p":"components","c":"Piece","l":"Piece()","u":"%3Cinit%3E()"},{"p":"components","c":"Piece","l":"type"}];updateSearchResults();
