@@ -1,4 +1,4 @@
-## Chess Project for CS213 Assignment 2
+## Terminal Based Chess
 
 Authors:
 Ryan Coslove and Jason Dao 
